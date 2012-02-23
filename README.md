@@ -11,5 +11,8 @@ It is recommended to install [Nginx](http://nginx.net/) by doing a full compile 
 
 A great resource is the [Nginx Wiki](http://wiki.nginx.org/).
 
+Run this command for defaults load nginx when system start
+/usr/sbin/update-rc.d -f nginx defaults
+
 ## Contributions ##
 _Contributions are welcome!_
